@@ -1,0 +1,12 @@
+name: etcd
+home: https://github.com/etcd-io/etcd
+version: 0.1.0
+appVersion: 3.2.0
+description: Distributed reliable key-value store for the most critical data of a
+  distributed system.
+icon: https://raw.githubusercontent.com/etcd-io/etcd/master/logos/etcd-horizontal-color.png
+sources:
+- https://github.com/etcd-io/etcd
+maintainers:
+- name: meyskens
+  email: maartje@sourced.tech
